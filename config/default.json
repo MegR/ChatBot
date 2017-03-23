@@ -1,5 +1,5 @@
 {
-  "serverUrl": "<insert your server url here>",
+  "serverUrl": "https://chatbot2238.herokuapp.com/",
   "weatherApiToken": "<insert your weather api token here>",
   "googleApiToken": "<insert your google geolocalisation api token here>",
   "pageAccessToken": "EAAGfnrJ56IoBALFI7dsennfXN6VdaIALU15xtJwAJnaXf7oEcYzfokbgCISPrIr5qPmn3P7Pu0lbFPfhN5tnORZAZC97RBgzv8mtrGzi1tnSZBxsCKHm2jnJImGKKfmUv3FQIbUge0LXZB34ZC2NoMe7sCaWVGj3DZBgJZBffVD7QZDZD",
